@@ -1,3 +1,22 @@
 .page-bg{
     background-color: aqua;
 }
+
+.prof-pic {
+    border-radius: 50%;
+    height: 15rem;
+    border: dashed 1px rgb(212, 175, 81);
+}
+
+.doc-header {
+    background-color: rgb(48, 54, 76);
+    
+}
+
+.doc-topic {
+    background-color: rgb(76, 98, 111);
+}
+
+.bd {
+    background-color: aliceblue;
+}
